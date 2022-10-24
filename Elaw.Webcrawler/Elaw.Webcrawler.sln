@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elaw.Webcrawler.Application", "WebApi\Elaw.Webcrawler.Application\Elaw.Webcrawler.Application.csproj", "{F69D58FA-FACF-4CEE-A337-E8FDBCB0611C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elaw.Webcrawler.Domain", "WebApi\Elaw.Webcrawler.Domain\Elaw.Webcrawler.Domain.csproj", "{89A2943E-ACF3-4CC8-9769-52800CB3DA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elaw.Webcrawler.Infra.Data", "WebApi\Elaw.Webcrawler.Infra.Data\Elaw.Webcrawler.Infra.Data.csproj", "{AEDFA85C-743C-4AA5-BFA7-6A2E1EA35C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elaw.Webcrawler.WebApi", "WebApi\Elaw.Webcrawler.WebApi\Elaw.Webcrawler.WebApi.csproj", "{ECFA6842-DC34-486E-9763-0C84C41DF1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elaw.Webcrawler.Infra.Ioc", "WebApi\Elaw.Webcrawler.Infra.Ioc\Elaw.Webcrawler.Infra.Ioc.csproj", "{6FFE00F2-8340-4468-B4C0-1060CD7AA256}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elaw.Webcrawler", "Elaw.Webcrawler\Elaw.Webcrawler.csproj", "{9A3F74AF-13B7-4BC4-865B-BE9F987CB0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69D58FA-FACF-4CEE-A337-E8FDBCB0611C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D58FA-FACF-4CEE-A337-E8FDBCB0611C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D58FA-FACF-4CEE-A337-E8FDBCB0611C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D58FA-FACF-4CEE-A337-E8FDBCB0611C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A2943E-ACF3-4CC8-9769-52800CB3DA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A2943E-ACF3-4CC8-9769-52800CB3DA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A2943E-ACF3-4CC8-9769-52800CB3DA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A2943E-ACF3-4CC8-9769-52800CB3DA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDFA85C-743C-4AA5-BFA7-6A2E1EA35C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDFA85C-743C-4AA5-BFA7-6A2E1EA35C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDFA85C-743C-4AA5-BFA7-6A2E1EA35C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDFA85C-743C-4AA5-BFA7-6A2E1EA35C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFA6842-DC34-486E-9763-0C84C41DF1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFA6842-DC34-486E-9763-0C84C41DF1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFA6842-DC34-486E-9763-0C84C41DF1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFA6842-DC34-486E-9763-0C84C41DF1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFE00F2-8340-4468-B4C0-1060CD7AA256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFE00F2-8340-4468-B4C0-1060CD7AA256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFE00F2-8340-4468-B4C0-1060CD7AA256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFE00F2-8340-4468-B4C0-1060CD7AA256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3F74AF-13B7-4BC4-865B-BE9F987CB0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3F74AF-13B7-4BC4-865B-BE9F987CB0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3F74AF-13B7-4BC4-865B-BE9F987CB0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3F74AF-13B7-4BC4-865B-BE9F987CB0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE41BA3-A7FB-44A5-A818-D04833AA2158}
+	EndGlobalSection
+EndGlobal

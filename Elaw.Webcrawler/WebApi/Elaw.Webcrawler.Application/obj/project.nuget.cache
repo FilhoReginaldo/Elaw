@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpldN0lVADInKNCxhxfoMmmyoLCS0xoN2c1E07nzYIj7bzmdSXpp1j75DXKch1i+dOkPAYpN0qR6OF5Ms+QmUw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\Elaw\\Elaw.Webcrawler\\WebApi\\Elaw.Webcrawler.Application\\Elaw.Webcrawler.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\regjs\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\regjs\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\regjs\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\regjs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

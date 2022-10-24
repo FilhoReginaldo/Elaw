@@ -1,0 +1,12 @@
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\bin\Debug\net6.0\Elaw.Webcrawler.Domain.deps.json
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\bin\Debug\net6.0\Elaw.Webcrawler.Domain.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\bin\Debug\net6.0\Elaw.Webcrawler.Domain.pdb
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.csproj.AssemblyReference.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.AssemblyInfoInputs.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.AssemblyInfo.cs
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.csproj.CoreCompileInputs.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\refint\Elaw.Webcrawler.Domain.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\Elaw.Webcrawler.Domain.pdb
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Domain\obj\Debug\net6.0\ref\Elaw.Webcrawler.Domain.dll

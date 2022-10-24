@@ -1,0 +1,17 @@
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Infra.Data.deps.json
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Infra.Data.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Infra.Data.pdb
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.csproj.AssemblyReference.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.AssemblyInfoInputs.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.AssemblyInfo.cs
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\refint\Elaw.Webcrawler.Infra.Data.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.pdb
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\ref\Elaw.Webcrawler.Infra.Data.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Domain.dll
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Domain.pdb
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.csproj.CopyComplete
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\bin\Debug\net6.0\Elaw.Webcrawler.Infra.Data.runtimeconfig.json
+C:\Project\Elaw\Elaw.Webcrawler\WebApi\Elaw.Webcrawler.Infra.Data\obj\Debug\net6.0\Elaw.Webcrawler.Infra.Data.genruntimeconfig.cache
